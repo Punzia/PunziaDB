@@ -1,5 +1,4 @@
 # Ignore CSS files
-css/
 *.css
 *.CSS
 src/pages/css/settings.css
