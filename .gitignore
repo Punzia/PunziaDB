@@ -1,6 +1,7 @@
 # Ignore CSS files
 css/
 *.css
+*.CSS
 src/pages/css/settings.css
 src/App.css
 src/pages/css/navbar.css
