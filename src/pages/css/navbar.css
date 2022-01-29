@@ -1,0 +1,18 @@
+#panel {
+    background-color: black;
+}
+.sidenav__menu > li {
+    margin-right: 15px;
+}
+.sidenav__menu {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 55px;
+}
+.nav > li {
+    display: inline-block;
+}
+.sidenav__menu a {
+    display: block;
+    color: #e3e3e3;
+}
