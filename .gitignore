@@ -1,10 +1,10 @@
 # Ignore CSS files
 *.css
 *.CSS
-src/pages/css/settings.css
-src/App.css
-src/pages/css/navbar.css
-src/pages/css/style.css
-src/pages/css/phone-styling.css
-src/index.css
-src/pages/css/settings.css
+/src/pages/css/settings.css
+/src/App.css
+/src/pages/css/navbar.css
+/src/pages/css/style.css
+/src/pages/css/phone-styling.css
+/src/index.css
+/src/pages/css/settings.css
